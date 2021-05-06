@@ -12,6 +12,8 @@
 <p align="center"><a href="https://www.linkedin.com/in/keremkargin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a><a href="https://keremkargin.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> <a href="https://twitter.com/keremkargin_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a>  <a href="https://www.instagram.com/keremkargin0"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>  <a href="https://www.kaggle.com/keremkargn"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=30></a>  <a href="https://open.spotify.com/user/7pzz5ih249aikab4uw0vm7bvz?si=d3f21181e4154cb5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>  
 </p>
 
+<p align="center"> When I'm not developing and coding, you can find me watching Netflix, Sports or Listening to Music. I also play basketball and play the piano in my spare time. Playing the piano is good for me. </p>
+
 <p align=center>
   <a href="https://github.com/keremkargin0">
     <img src="https://badges.pufler.dev/visits/keremkargin0/keremkargin0?style=flat-square&color=black&logo=github">
