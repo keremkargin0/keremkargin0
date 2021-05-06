@@ -2,6 +2,12 @@
 
 <h2 align="center">Visualization Engineer | Researching Machine Learning and Computer Vision</h2>
 
+- I'm [Kerem Kargın](https://www.linkedin.com/in/keremkargin).
+
+- I'm currently working as a Visualization Engineer.
+
+- You can reach me via **keremkargin@outlook.com**
+
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremkargin)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://keremkargin.medium.com)
