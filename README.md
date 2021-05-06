@@ -15,7 +15,7 @@
 
 <h2 align="center">Projects</h2>
 
-<h2 align="center">Technologies & Tools/h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <h2 align="center">Recent Medium Blog Posts</h2>
 
