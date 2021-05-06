@@ -26,7 +26,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://github.com/cncf/landscape/blob/master/hosted_logos/vertica.svg" alt="Vertica" height="50" /> 
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/tableau.svg" alt="Tableau" height="50" /> 
