@@ -23,12 +23,9 @@
 
 <p align="center"> <a href="https://keremkargin.medium.com/computer-vision-fundamentals-and-opencv-overview-9a30fe94f0ce">Computer Vision Fundamentals and OpenCV Overview</a></p>
 <p align="center"> <a href="https://medium.com/mlearning-ai/nlp-tokenization-stemming-lemmatization-and-part-of-speech-tagging-9088ac068768">NLP: Tokenization, Stemming, Lemmatization and Part of Speech Tagging</a></p>
-
-- [Computer Vision Fundamentals and OpenCV Overview](https://keremkargin.medium.com/computer-vision-fundamentals-and-opencv-overview-9a30fe94f0ce)
-- [NLP: Tokenization, Stemming, Lemmatization and Part of Speech Tagging](https://medium.com/mlearning-ai/nlp-tokenization-stemming-lemmatization-and-part-of-speech-tagging-9088ac068768)
-- [Apache Kafka Architecture - Getting Started with Apache Kafka](https://medium.com/analytics-vidhya/apache-kafka-architecture-getting-started-with-apache-kafka-771d69ac6cef)
-- [Introduction to Natural Language Processing](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-3c7b18312980)
-- [Why Do We Visualize Data?](https://keremkargin.medium.com/why-do-we-visualize-data-293f2dd0a71e)
+<p align="center"> <a href="https://medium.com/analytics-vidhya/apache-kafka-architecture-getting-started-with-apache-kafka-771d69ac6cef">Apache Kafka Architecture - Getting Started with Apache Kafka</a></p>
+<p align="center"> <a href="https://medium.com/mlearning-ai/introduction-to-natural-language-processing-3c7b18312980">Introduction to Natural Language Processing</a></p>
+<p align="center"> <a href="https://keremkargin.medium.com/why-do-we-visualize-data-293f2dd0a71e">Why Do We Visualize Data?</a></p>
 
 
 <h2 align="center">GitHub Stats</h2>
