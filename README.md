@@ -12,13 +12,10 @@
 <p align="center"> I'm currently working as a Visualization Engineer. I graduated from Balıkesir University, Department of Industrial Engineering :student:. I'm passionate about areas of Machine Learning, Data Visualization, Computer Vision and Deep Learning :man_technologist:. I focus on finding the best solution in every subject I dealt with. I strive to develop the business with creative and optimum solutions and to sustain this development. You can reach me via **keremkargin@outlook.com**
 </p>
 
-
-## Technologies & Tools I am Using
-
+<h2 align="center">Technologies & Tools I am Using</h2>
 
 
-## Technologies & Tools I am Learning
-
+<h2 align="center">Technologies & Tools I am Learning</h2>
 
 
 ## Recent Medium Blog Posts
