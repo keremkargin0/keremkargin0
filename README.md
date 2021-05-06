@@ -29,7 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/tableau.svg" alt="Tableau" height="50" /> 
-<img style="margin: 10px" src="https://logos.fandom.com/wiki/Microsoft_Power_BI?file=Microsoft_Power_BI_%25282020%2529.svg" alt="Power BI" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="50" />  
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/looker.svg" alt="Looker" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /> 
 </div>  
