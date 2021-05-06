@@ -19,6 +19,11 @@
 
 <h2 align="center">Recent Medium Blog Posts</h2>
 
+
+
+<p align="center"> <a href="https://keremkargin.medium.com/computer-vision-fundamentals-and-opencv-overview-9a30fe94f0ce">Computer Vision Fundamentals and OpenCV Overview</a></p>
+<p align="center"> <a href="https://medium.com/mlearning-ai/nlp-tokenization-stemming-lemmatization-and-part-of-speech-tagging-9088ac068768">NLP: Tokenization, Stemming, Lemmatization and Part of Speech Tagging</a></p>
+
 - [Computer Vision Fundamentals and OpenCV Overview](https://keremkargin.medium.com/computer-vision-fundamentals-and-opencv-overview-9a30fe94f0ce)
 - [NLP: Tokenization, Stemming, Lemmatization and Part of Speech Tagging](https://medium.com/mlearning-ai/nlp-tokenization-stemming-lemmatization-and-part-of-speech-tagging-9088ac068768)
 - [Apache Kafka Architecture - Getting Started with Apache Kafka](https://medium.com/analytics-vidhya/apache-kafka-architecture-getting-started-with-apache-kafka-771d69ac6cef)
