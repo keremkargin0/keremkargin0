@@ -13,25 +13,9 @@
 
 <p align="center"> When I'm not developing and coding, you can find me watching Netflix, Sports or Listening to Music. I also play basketball and play the piano in my spare time. Playing the piano is good for me. </p>
 
-<p align=center>
-  <a href="https://github.com/keremkargin0">
-    <img src="https://badges.pufler.dev/visits/keremkargin0/keremkargin0?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/keremkargin0?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/keremkargin0?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/keremkargin0"><img src="https://img.shields.io/github/followers/keremkargin0?style=social"></a>
-</p>
-
 <h2 align="center">Projects</h2>
 
-<h2 align="center">Technologies & Tools I am Using</h2>
-
-
-<h2 align="center">Technologies & Tools I am Learning</h2>
-
+<h2 align="center">Technologies & Tools/h2>
 
 <h2 align="center">Recent Medium Blog Posts</h2>
 
