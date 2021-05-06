@@ -6,11 +6,24 @@
 <h2 align="center">Visualization Engineer | Machine Learning & Deep Learning & Computer Vision</h2>
 
 
+<p align="center"> I'm currently working as a Visualization Engineer. I graduated from Balıkesir University, Department of Industrial Engineering :student:. I'm passionate about areas of Machine Learning, Data Visualization, Computer Vision and Deep Learning :man_technologist:. I focus on finding the best solution in every subject I dealt with. I strive to develop the business with creative and optimum solutions and to sustain this development. You can reach me via **keremkargin@outlook.com**
+</p>
+
 <p align="center"><a href="https://www.linkedin.com/in/keremkargin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a><a href="https://keremkargin.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> <a href="https://twitter.com/keremkargin_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a>  <a href="https://www.instagram.com/keremkargin0"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>  <a href="https://www.kaggle.com/keremkargn"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=30></a>  <a href="https://open.spotify.com/user/7pzz5ih249aikab4uw0vm7bvz?si=d3f21181e4154cb5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>  
 </p>
 
-<p align="center"> I'm currently working as a Visualization Engineer. I graduated from Balıkesir University, Department of Industrial Engineering :student:. I'm passionate about areas of Machine Learning, Data Visualization, Computer Vision and Deep Learning :man_technologist:. I focus on finding the best solution in every subject I dealt with. I strive to develop the business with creative and optimum solutions and to sustain this development. You can reach me via **keremkargin@outlook.com**
+<p align=center>
+  <a href="https://github.com/keremkargin0">
+    <img src="https://badges.pufler.dev/visits/keremkargin0/keremkargin0?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/keremkargin0?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/keremkargin0?style=flat-square&color=black&logo=github">
+  </a>
 </p>
+<p align="center">
+<a href="https://github.com/keremkargin0"><img src="https://img.shields.io/github/followers/keremkargin0?style=social"></a>
+</p>
+
 
 <h2 align="center">Technologies & Tools I am Using</h2>
 
