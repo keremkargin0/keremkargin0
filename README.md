@@ -22,8 +22,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-icon.svg" alt="R" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" height="50" />  	
-<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" />  	
+<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://github.com/cncf/landscape/blob/master/hosted_logos/vertica.svg" alt="Vertica" height="50" />  	
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
