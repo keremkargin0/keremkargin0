@@ -16,6 +16,10 @@
 
 - I'm currently working as a Visualization Engineer.
 
+- I'm currently working with Python.
+
+- I'm currently learning Computer Vision, OpenCV, TensorFlow.
+
 - You can reach me via **keremkargin@outlook.com**
 
 
