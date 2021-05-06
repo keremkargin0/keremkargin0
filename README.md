@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 
-<p align="center"> <a href = "mailto: keremkargin@outlook.com">You can reach me via keremkargin@outlook.com </a> </p>
+<p align="center"> You can reach me via <a href = "mailto: keremkargin@outlook.com">keremkargin@outlook.com </a></p>
 
 
 
