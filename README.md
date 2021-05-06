@@ -9,3 +9,13 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keremkargin_)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keremkargin0) 
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7pzz5ih249aikab4uw0vm7bvz?si=d3f21181e4154cb5)
+
+
+<br/>  
+
+ [![Kerem's github activity graph](https://activity-graph.herokuapp.com/graph?username=keremkargin0&theme=react-dark)](https://git.io/keremkargin0)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremkargin0&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=keremkargin0&theme=tokyonight" />
+</p>
