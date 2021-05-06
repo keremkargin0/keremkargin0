@@ -19,8 +19,6 @@
 
 <p align="center"> When I'm not developing and coding, you can find me watching Netflix, Sports or Listening to Music. I also play basketball and play the piano in my spare time. Playing the piano is good for me. </p>
 
-<p>&nbsp;</p>
-
 <p align=center>
   <a href="https://github.com/keremkargin0">
     <img src="https://badges.pufler.dev/visits/keremkargin0/keremkargin0?style=flat-square&color=black&logo=github">
