@@ -47,8 +47,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <br/>  
-
- [![Kerem's github activity graph](https://activity-graph.herokuapp.com/graph?username=keremkargin0&theme=react-dark)](https://git.io/keremkargin0)
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keremkargin0&show_icons=true&theme=tokyonight" />
