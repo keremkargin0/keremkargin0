@@ -12,7 +12,7 @@
 
 <p align="center"> When I'm not developing and coding, you can find me watching Netflix, Sports or Listening to Music. I also play basketball and play the piano in my spare time. Playing the piano is good for me. </p>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Recent Projects</h2>
 
 <h2 align="center">Technologies & Tools</h2>
 
