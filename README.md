@@ -13,7 +13,7 @@
 <p align="center"> When I'm not developing and coding, you can find me watching Netflix, Sports or Listening to Music. I also play basketball and play the piano in my spare time. Playing the piano is good for me. </p>
 
 <h2 align="center">Recent Projects</h2>
-<p align="center"> <a href="https://github.com/keremkargin0/AI-ChatBot">AI ChatBot with Deep Learning</a></p>
+<p align="center"> <a href="https://github.com/keremkargin0/Turkish-ChatBot-with-Deep-Learning">Turkish ChatBot with Deep Learning</a></p>
 <p align="center"> <a href="https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/08.License%20Plate%20Detection.py">License Plate Detection with OpenCV, OCR</a></p>
 <p align="center"> <a href="https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/07.Gender%20and%20Age%20Detection.py">Gender and Age Detection</a></p>
 
