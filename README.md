@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there! I'm Kerem Kargın 👋🤓 </h1>
 
-<p align="left"> I'm currently working as a Visualization Engineer. I graduated from Balıkesir University, Department of Industrial Engineering :student:. I'm passionate about areas of Machine Learning, Data Visualization, Computer Vision and Deep Learning :man_technologist:. I focus on finding the best solution in every subject I dealt with. I strive to develop the business with creative and optimum solutions and to sustain this development.
+<p align="left"> I'm currently working as a Visualization Engineer. I graduated from Balıkesir University, Department of Industrial Engineering :student:. I'm passionate about areas of Machine Learning, Data Visualization, Computer Vision, Natural Language Processing and Deep Learning :man_technologist:. I focus on finding the best solution in every subject I dealt with. I strive to develop the business with creative and optimum solutions and to sustain this development.
 </p>
 
 <p align="left"> You can reach me via <a href = "mailto: keremkargin@outlook.com">keremkargin@outlook.com </a></p>
